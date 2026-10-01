@@ -1,7 +1,7 @@
 ---
 layout: page
-title: R
-permalink: /about/
+title: Resources
+permalink: /resources/
 ---
 
 
